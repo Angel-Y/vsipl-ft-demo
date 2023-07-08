@@ -1,0 +1,16 @@
+Preposition algorithm takes 37.240000 us
+delta_timer : 21.000000 us
+timer_sum : 58.240000 us
+max power = 4970.241211 = 36.963776dB
+p_index = 0x7ffa088a00 = 0x7ffa088a00
+max power index = 139
+
+delta_timer : 10.000000 us
+timer_sum : 68.240000 us
+finalize() has been run
+
+
+----------------------------------------end---------------------------------------------
+
+ft123456@ft123456-d2000:~/桌面/vsipl_ft_demo/demo_pulse_compression$ 
+
